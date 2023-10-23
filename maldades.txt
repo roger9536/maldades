@@ -1,0 +1,13 @@
+
+#EXTM3U
+#EXTINF:-1-Go for Broke 2018
+https://static.filmskino.site/hls/trailers/JVcTrd_ihpY.mp4/index.m3u8
+#EXTINF:-1- Steven Sees a Ghost 2018
+https://static.filmskino.site/hls/trailers/JVcTrd_ihpY.mp4/index.m3u8
+#EXTINF:-1-Open Casket 2018
+https://static.filmskino.site/hls/trailers/_pO__Q7A548.mp4/index.m3u8
+#EXTINF:-1-Touch 2018
+https://static.filmskino.site/hls/trailers/JVcTrd_ihpY.mp4/index.m3u8
+#EXTINF:-1- Jellyfish in the Sky 2013
+https://static.filmskino.site/hls/trailers/GPjPtBKjTeA.mp4/index.m3u8
+
